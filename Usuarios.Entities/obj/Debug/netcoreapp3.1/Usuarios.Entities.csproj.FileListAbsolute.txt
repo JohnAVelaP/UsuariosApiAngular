@@ -1,0 +1,9 @@
+C:\Users\john1\Source\repos\Usuarios_API_Net\Usuarios\Usuarios.Entities\bin\Debug\netcoreapp3.1\Usuarios.Entities.deps.json
+C:\Users\john1\Source\repos\Usuarios_API_Net\Usuarios\Usuarios.Entities\bin\Debug\netcoreapp3.1\Usuarios.Entities.dll
+C:\Users\john1\Source\repos\Usuarios_API_Net\Usuarios\Usuarios.Entities\bin\Debug\netcoreapp3.1\Usuarios.Entities.pdb
+C:\Users\john1\Source\repos\Usuarios_API_Net\Usuarios\Usuarios.Entities\obj\Debug\netcoreapp3.1\Usuarios.Entities.csprojAssemblyReference.cache
+C:\Users\john1\Source\repos\Usuarios_API_Net\Usuarios\Usuarios.Entities\obj\Debug\netcoreapp3.1\Usuarios.Entities.AssemblyInfoInputs.cache
+C:\Users\john1\Source\repos\Usuarios_API_Net\Usuarios\Usuarios.Entities\obj\Debug\netcoreapp3.1\Usuarios.Entities.AssemblyInfo.cs
+C:\Users\john1\Source\repos\Usuarios_API_Net\Usuarios\Usuarios.Entities\obj\Debug\netcoreapp3.1\Usuarios.Entities.csproj.CoreCompileInputs.cache
+C:\Users\john1\Source\repos\Usuarios_API_Net\Usuarios\Usuarios.Entities\obj\Debug\netcoreapp3.1\Usuarios.Entities.dll
+C:\Users\john1\Source\repos\Usuarios_API_Net\Usuarios\Usuarios.Entities\obj\Debug\netcoreapp3.1\Usuarios.Entities.pdb
